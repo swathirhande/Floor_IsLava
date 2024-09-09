@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{EEE03F90-843A-C5C4-637B-28D1CBE53B1E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BallMovement.cs">
+    <Files>
+      <File FileName="Assets/BallMovement.cs" Line="13" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSCI526Assignment1FloorIsLava" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4159abb4-c0c8-4297-ae13-0a40eaccbaa8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
